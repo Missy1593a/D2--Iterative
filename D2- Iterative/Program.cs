@@ -67,7 +67,6 @@ namespace Class_Project___D2___Iterative
 
                 }
 
-
                 else
 
                 {
