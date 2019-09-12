@@ -10,7 +10,7 @@ namespace Class_Project___D2___Iterative
             // Ask the user for input
             Console.Write("Enter an Integer value between 1 and 100 to execute an iterative statement: ");
             /*
-               Use the try catch block to validate user input.
+               Use the try catch block to validate user input.  
                If the user provides bad input, the catch block
                will handle the error and a message will be displayed.
 
